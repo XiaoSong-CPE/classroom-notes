@@ -9,32 +9,32 @@ import {
 } from "./chunk-JWA4H7QR.js";
 
 // node_modules/vitepress/dist/client/theme-default/index.js
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/fonts.css";
 
 // node_modules/vitepress/dist/client/theme-default/without-fonts.js
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/base.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
-import "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import { default as default3 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
-import { default as default4 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
-import { default as default5 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default6 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default7 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default8 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default9 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
-import { default as default10 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default11 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default12 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default13 } from "D:/文档/GitHub/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/vars.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/base.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/icons.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/utils.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/custom-block.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
+import "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
+import VPBadge from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import Layout from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/Layout.vue";
+import { default as default2 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
+import { default as default3 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPImage.vue";
+import { default as default4 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPButton.vue";
+import { default as default5 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
+import { default as default6 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
+import { default as default7 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
+import { default as default8 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
+import { default as default9 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue";
+import { default as default10 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
+import { default as default11 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
+import { default as default12 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
+import { default as default13 } from "/workspaces/classroom-notes/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
 
 // node_modules/vitepress/dist/client/theme-default/support/utils.js
 import { withBase } from "vitepress";
