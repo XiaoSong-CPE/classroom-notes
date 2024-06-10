@@ -4,10 +4,11 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
-  lastUpdated: true,
+  cleanUrls: true,
+  // lastUpdated: true,
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: "local",
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -63,31 +64,52 @@ export default defineConfig({
           // 10 - 2. Jun. - 3睿学 - Kat.md
           {
             text: "10 - 2. Jun. - 3睿学 - Kat",
-            link: "/10 - 2. Jun. - 3睿学 - Kat"
+            link: "/10 - 2. Jun. - 3睿学 - Kat",
           },
           // 11 - 2. Jun. - 2精学 - Icey.md
           {
             text: "11 - 2. Jun. - 2精学 - Icey",
-            link: "/11 - 2. Jun. - 2精学 - Icey"
+            link: "/11 - 2. Jun. - 2精学 - Icey",
           },
           // 12 - 2. Jun. - 2睿学 - Ariana.md
           {
             text: "12 - 2. Jun. - 2睿学 - Ariana",
-            link: "/12 - 2. Jun. - 2睿学 - Ariana"
+            link: "/12 - 2. Jun. - 2睿学 - Ariana",
+          },
+          // 13 - 8. Jun. - 1精学 - Miriam.md
+          {
+            text: "13 - 8. Jun. - 1精学 - Miriam ⭐",
+            link: "/13 - 8. Jun. - 1精学 - Miriam",
+          },
+          // 14 - 8. Jun. - 2精学 - Jackie.md
+          {
+            text: "14 - 8. Jun. - 2精学 - Jackie",
+            link: "/14 - 8. Jun. - 2精学 - Jackie",
+          },
+          // 15 - 8. Jun. - 3好学 - Charline.md
+          {
+            text: "15 - 8. Jun. - 3好学 - Charline",
+            link: "/15 - 8. Jun. - 3好学 - Charline",
+          },
+          // 16 - 9. Jun. - 3精学 - Doris.md
+          {
+            text: "16 - 9. Jun. - 3精学 - Doris",
+            link: "/16 - 9. Jun. - 3精学 - Doris",
+          },
+          // 17 - 9. Jun. - 1精学 - Karrie.md
+          {
+            text: "17 - 9. Jun. - 1精学 - Karrie",
+            link: "/17 - 9. Jun. - 1精学 - Karrie",
+          },
+          // 18 - 9. Jun. - 1好学 - Icey.md
+          {
+            text: "18 - 9. Jun. - 1好学 - Icey",
+            link: "/18 - 9. Jun. - 1好学 - Icey",
           },
         ],
       },
     ],
-
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
-
+    
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
