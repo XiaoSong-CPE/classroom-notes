@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/classroom-notes/",
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
