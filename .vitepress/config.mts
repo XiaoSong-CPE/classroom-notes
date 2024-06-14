@@ -109,8 +109,28 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Lectures",
+        items: [
+          // 家长常见问题沙盘演练.md
+          {
+            text: "家长常见问题沙盘演练",
+            link: "/家长常见问题沙盘演练",
+          },
+          // 小学英语课程体系.md
+          {
+            text: "小学英语课程体系",
+            link: "/小学英语课程体系",
+          },
+          // 新生转化指引.md
+          {
+            text: "新生转化指引",
+            link: "/新生转化指引",
+          },
+        ],
+      },
     ],
-    
+
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
