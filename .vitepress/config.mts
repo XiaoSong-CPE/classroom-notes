@@ -25,6 +25,17 @@ const lectureNotesList = lectureNotesFiles.map((file) => {
   };
 });
 
+// list all notes files in src/lesson-plans
+const lessonPlansDir = path.resolve(__dirname, "../src/lesson-plans");
+const lessonPlansFiles = fs.readdirSync(lessonPlansDir);
+const lessonPlansList = lessonPlansFiles.map((file) => {
+  let title = file.substring(0, file.length - 3);
+  return {
+    text: title,
+    link: `/src/lesson-plans/${title}`,
+  };
+});
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/classroom-notes/",
@@ -42,6 +53,10 @@ export default defineConfig({
       {
         text: "Notes",
         items: classroomNotesList,
+      },
+      {
+        text: "Lesson Plans",
+        items: lessonPlansList,
       },
       {
         text: "Lectures",
