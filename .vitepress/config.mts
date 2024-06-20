@@ -7,6 +7,7 @@ import path from "path";
 const classroomNotesDir = path.resolve(__dirname, "../src/classroom-notes");
 const classroomNotesFiles = fs.readdirSync(classroomNotesDir);
 const classroomNotesList = classroomNotesFiles.map((file) => {
+  if (!file.endsWith(".md")) return;
   let title = file.substring(0, file.length - 3);
   return {
     text: title,
@@ -18,6 +19,7 @@ const classroomNotesList = classroomNotesFiles.map((file) => {
 const lectureNotesDir = path.resolve(__dirname, "../src/lecture-notes");
 const lectureNotesFiles = fs.readdirSync(lectureNotesDir);
 const lectureNotesList = lectureNotesFiles.map((file) => {
+  if (!file.endsWith(".md")) return;
   let title = file.substring(0, file.length - 3);
   return {
     text: title,
@@ -29,6 +31,7 @@ const lectureNotesList = lectureNotesFiles.map((file) => {
 const lessonPlansDir = path.resolve(__dirname, "../src/lesson-plans");
 const lessonPlansFiles = fs.readdirSync(lessonPlansDir);
 const lessonPlansList = lessonPlansFiles.map((file) => {
+  if (!file.endsWith(".md")) return;
   let title = file.substring(0, file.length - 3);
   return {
     text: title,
@@ -38,7 +41,7 @@ const lessonPlansList = lessonPlansFiles.map((file) => {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/classroom-notes/",
+  // base: "/classroom-notes/",
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
