@@ -3,45 +3,31 @@ import { defineConfig } from "vitepress";
 import fs from "fs";
 import path from "path";
 
+function listGen(dir: string) {
+  return fs
+    .readdirSync(path.resolve(__dirname, dir))
+    .filter((file) => file.endsWith(".md"))
+    .map((file) => {
+      let title = file.substring(0, file.length - 3);
+      return {
+        text: title,
+        link: `/${dir}/${title}`,
+      };
+    });
+}
+
 // list all notes files in src/classroom-notes
-const classroomNotesDir = path.resolve(__dirname, "../src/classroom-notes");
-const classroomNotesFiles = fs.readdirSync(classroomNotesDir);
-const classroomNotesList = classroomNotesFiles.map((file) => {
-  if (!file.endsWith(".md")) return;
-  let title = file.substring(0, file.length - 3);
-  return {
-    text: title,
-    link: `/src/classroom-notes/${title}`,
-  };
-});
+const classroomNotesList = listGen("../src/classroom-notes");
 
 // list all notes files in src/lecture-notes
-const lectureNotesDir = path.resolve(__dirname, "../src/lecture-notes");
-const lectureNotesFiles = fs.readdirSync(lectureNotesDir);
-const lectureNotesList = lectureNotesFiles.map((file) => {
-  if (!file.endsWith(".md")) return;
-  let title = file.substring(0, file.length - 3);
-  return {
-    text: title,
-    link: `/src/lecture-notes/${title}`,
-  };
-});
+const lectureNotesList = listGen("../src/lecture-notes");
 
 // list all notes files in src/lesson-plans
-const lessonPlansDir = path.resolve(__dirname, "../src/lesson-plans");
-const lessonPlansFiles = fs.readdirSync(lessonPlansDir);
-const lessonPlansList = lessonPlansFiles.map((file) => {
-  if (!file.endsWith(".md")) return;
-  let title = file.substring(0, file.length - 3);
-  return {
-    text: title,
-    link: `/src/lesson-plans/${title}`,
-  };
-});
+const lessonPlansList = listGen("../src/lesson-plans");
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: "/classroom-notes/",
+  base: "/classroom-notes/",
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
