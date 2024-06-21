@@ -1,12 +1,11 @@
 # Task-Based Teaching (Lilian Downey)
 
 > [!note] My Thoughts
-- why teach
 > Lilian explains the history, theory, and practical examples of modern language teaching.
-> Regarding the historical aspect, it's unfortunate that Lilian didn't have time to explain why the new methods are superior. For instance, the Grammar Translation Method is still used when teaching specific grammar points for the first time. Although we don’t use this method exclusively, many of its concepts remain relevant. Why, then, is it considered outdated? Lilian briefly mentioned that it only helps students learn about the language system, not its practical use. While this reason is intuitive, the lecture lacks detailed comparisons and experiments, which I am curious about.
+> At the beginning of the lecture, we are asked that why we choose education as career. Personally I like kids. though I selden get in touch with kids because of my personality, I like their lovely faces and cuty voices probably because I volunteered in Guangxi Science Museum for several months and really enjoyed the atmosphere that kids run around me happily.
+> As for the histoy section, it's unfortunate that Lilian didn't have time to explain why the new methods are superior. For instance, the Grammar Translation Method and Audio-lingua Approch are used in a smart phone application called Duolinguo, in which I am learning Germany and I think those methods are just fine, at least when they are supported by some modern technology like 'auto sentence generating' and 'text to speech'. Even for our traditional classroom teaching, they are still used when teaching grammar knowledge for the first time (to encourage kids find out the pattern themselves). Although we don’t use this method exclusively, many of its concepts remain relevant. Why, then, is it considered outdated? Lilian briefly mentioned that it only helps students learn about the language system, not its practical use. While this reason is intuitive, the lecture lacks detailed comparisons and experiments, which I am curious about.
 > In terms of practical examples, Lilian demonstrates how to create a complete task-based teaching activity. I found this very informative and now know what constitutes a comprehensive task section in my teaching.
-- duolingo 
-- new tech
+
 
 ## Table of Contents
 
@@ -141,3 +140,60 @@ Personal => Social => National => Cultural
     - Post-reading: Observe and extend learning.
 
 ![An Example of Task-Based Teaching](IMG_20240620_191933.jpg)
+
+## Lesson Planning
+
+### Intro
+
+- what to teach: vocab, grammar, information (e.g. disasters around the world)
+
+- intro (attract interest): questions, images, videos, riddles (describe the intro materials, not to mention the key vocab directly, which is not intuitive for kids)
+
+### Vocab
+
+> [!tip] What to teach
+> - How to pronounce & spell
+>   - syllabication => spelling
+>   - Stressed & unstressed syllables => correct pronoince & spell
+> - What it means
+>   - Defination => word
+>   - Word => explaination
+> - How / when to use
+>   - Sentence making => corret use in context
+
+- word study: classification according to pronunciation (e.g. numbers of syllables, stressed syllable, silenced syllable)
+
+### Reading
+
+- reading
+  - **Pre-reading**: Guide students to predict from the pictures in the text
+  - **First reading**: (Guided reading) reading aloud, Q & A, explanation
+  - **Second reading**: Listen to the audio, students reading silently or aloud
+  - **Post-reading**: Use graphic organiser to summarise gist and key points; Assign students to comprehensiom questions.
+
+- help learners master the target language thru oral practices
+- provide framework for planning the speech => process writing (write, review, revise, rewrite) => presentation
+
+### Others
+
+- Chinese translation of terms are allowed. But do not say Chinese for long, e.g. a whole sentence.
+- for riddles, first few sentences are general so kids broaden their mind. while the last few sentences are narrowing the ideas to a specific answer. (activating thinking)
+- reading quick review: no need to let kids read the whole text. let them mention the gist.
+- gists can be completed by kids by filling the blanks of related grammar and vocab knowledge.
+- let kids write down their ideas, otherwise the ideas fly away.
+- children like repeatation.
+'do not leave your teaching machenic.'
+
+### Phonics
+
+(reading vocab) Kitty it is
+(phonics vocab) big six sit thin
+(rhyme vocab) this hippo fit
+
+### storytelling techniques
+
+- Language input: target vocab and structures from the text
+- Exposure: to passive language and explains and connects
+- Repetition: of key sentences
+- Involvement of the audience -- respond, observe, anticipate, predict, imagine...
+- Dramatisation: using facial expressions, vocal effects, gestures...
