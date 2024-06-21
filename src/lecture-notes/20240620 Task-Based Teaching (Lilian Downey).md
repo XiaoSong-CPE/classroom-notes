@@ -1,5 +1,13 @@
 # Task-Based Teaching (Lilian Downey)
 
+> [!note] My Thoughts
+- why teach
+> Lilian explains the history, theory, and practical examples of modern language teaching.
+> Regarding the historical aspect, it's unfortunate that Lilian didn't have time to explain why the new methods are superior. For instance, the Grammar Translation Method is still used when teaching specific grammar points for the first time. Although we don’t use this method exclusively, many of its concepts remain relevant. Why, then, is it considered outdated? Lilian briefly mentioned that it only helps students learn about the language system, not its practical use. While this reason is intuitive, the lecture lacks detailed comparisons and experiments, which I am curious about.
+> In terms of practical examples, Lilian demonstrates how to create a complete task-based teaching activity. I found this very informative and now know what constitutes a comprehensive task section in my teaching.
+- duolingo 
+- new tech
+
 ## Table of Contents
 
 [[toc]]
@@ -133,11 +141,3 @@ Personal => Social => National => Cultural
     - Post-reading: Observe and extend learning.
 
 ![An Example of Task-Based Teaching](IMG_20240620_191933.jpg)
-
-## My Thoughts
-
-Lilian explains the history, theory, and practical examples of modern language teaching.
-
-Regarding the historical aspect, it's unfortunate that Lilian didn't have time to explain why the new methods are superior. For instance, the Grammar Translation Method is still used when teaching specific grammar points for the first time. Although we don’t use this method exclusively, many of its concepts remain relevant. Why, then, is it considered outdated? Lilian briefly mentioned that it only helps students learn about the language system, not its practical use. While this reason is intuitive, the lecture lacks detailed comparisons and experiments, which I am curious about.
-
-In terms of practical examples, Lilian demonstrates how to create a complete task-based teaching activity. I found this very informative and now know what constitutes a comprehensive task section in my teaching.
