@@ -30,37 +30,59 @@
   > let's do this again, because some children are playing with pencils.
 - check textbooks and workbooks
   > At the beginning of the lesson let's check our books
+  > 
   > every one, let's check
+  > 
   > first, do you have your textbooks? all right show me. done (tick)
+  > 
   > two, your grammar book? ...
+  > 
   > so how many books do u have all together?
+  > 
   > before u go home, count
 - Kids' Preparation
   > do u have these things today?
+  > 
   > if no, I want to see them next lesson.
+  > 
   > u need to take all your books here every day
+  > 
   > u need your schoolbag, your handbag or your bookcase
+  > 
   > and ...
 - classroom rules
-  > all right so at the beginning we need to talk about our classroom rules 
-> during the class
-> u have to look at your teacher, that's right, **look at Karsten**
-> just like right now some children are looking at their books
-> ok look at me first
-> two, your **mouth should read** during the class
-> u should read your book
-> u should discuss with your partners
-> and your ears
-> u should listen to Karsten
-> every time if u want 2 say something, for example
-> u want to answer my questions u should hands up
-> ok hands up firstö raise your hands first
-> what else? oh, I'm not feeling good I want to go pee pee or go poo poo
-  eyes: look at Karsten
-  ear: listen to Karsten
-  raise your hand first
-  sit still
-  if u late: may I coming
+  > all right so at the beginning we need to talk about our classroom rules
+  > 
+  > during the class
+  > 
+  > u have to look at your teacher, that's right, **look at Karsten**
+  > 
+  > just like right now some children are looking at their books
+  > 
+  > ok look at me first
+  > 
+  > two, your **mouth should read** during the class
+  > 
+  > u should read your book
+  > 
+  > u should discuss with your partners
+  > 
+  > and your ears
+  > 
+  > u should listen to Karsten
+  > 
+  > every time if u want 2 say something, for example
+  > 
+  > u want to answer my questions u should hands up
+  > 
+  > ok hands up first raise your hands first
+  > 
+  > what else? oh, I'm not feeling good I want to go pee pee or go poo poo
+  > 
+  > hands up first
+- intro
+  > let's talk about some different places in our school
+
   take out your textbook (show the book at the same time)
   卖惨: e.g. I don't have a swimming pool when I was a child
   for games, less rule, more example
