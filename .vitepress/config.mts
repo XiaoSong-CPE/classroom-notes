@@ -8,10 +8,15 @@ function listGen(dir: string) {
     .readdirSync(path.resolve(__dirname, dir))
     .filter((file) => file.endsWith(".md"))
     .map((file) => {
-      let title = file.substring(0, file.length - 3);
+      let fileNameWithoutExt = file.substring(0, file.length - 3);
+      // remove date prefix if exists
+      // e.g. `20240614 家长常见问题沙盘演练 ⭐` => `家长常见问题沙盘演练 ⭐`
+      let text = fileNameWithoutExt.match(/^\d{8} /)
+        ? fileNameWithoutExt.substring(9)
+        : fileNameWithoutExt;
       return {
-        text: title,
-        link: `/${dir}/${title}`,
+        text: text,
+        link: `/${dir}/${fileNameWithoutExt}`,
       };
     });
 }
@@ -32,27 +37,48 @@ export default defineConfig({
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
   // lastUpdated: true,
+  rewrites: {
+    "src/:path*": "/:path*",
+  },
   themeConfig: {
     search: {
       provider: "local",
     },
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       {
-        text: "Notes",
+        text: "Classroom Notes",
         items: classroomNotesList,
-      },
-      {
-        text: "Lesson Plans",
-        items: lessonPlansList,
       },
       {
         text: "Lectures",
         items: lectureNotesList,
       },
+      {
+        text: "Lesson Plans",
+        items: lessonPlansList,
+      },
     ],
-
+    sidebar: {
+      "/classroom-notes/": [
+        {
+          text: "Classroom Notes",
+          items: classroomNotesList,
+        },
+      ],
+      "/lecture-notes/": [
+        {
+          text: "Lectures",
+          items: lectureNotesList,
+        },
+      ],
+      "/lesson-plans/": [
+        {
+          text: "Lesson Plans",
+          items: lessonPlansList,
+        },
+      ],
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
