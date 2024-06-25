@@ -5,172 +5,174 @@
 ### Teacher's Preparation
 
 - Textbooks & workbooks (9 books)
-- name stickers (stick on the books)
-- name cards (place on the desks)
+- Name stickers (to stick on the books)
+- Name cards (to place on the desks)
 
 ### Kids' Preparation
 
-- pencil box / pencil bag × 1
-- pencil × 2
-- eraser × 1
-- red pen × 1
-- highlighter × 2 (two colours)
-- backpack / school bag × 1
-- water bottle × 1
-- coat / jacket / any warm cloth (because of air conditioner)
+- Pencil box/pencil bag × 1
+- Pencils × 2
+- Eraser × 1
+- Red pen × 1
+- Highlighters × 2 (two colours)
+- Backpack/school bag × 1
+- Water bottle × 1
+- Coat/jacket/any warm clothing (due to air conditioning)
 
-## Reward Ref
+## Rewards
 
-- name-printed pencils
+- Name-printed pencils
 
-## plan
+## Plan
 
-- self introduction
-- greeting (2 times)
-  > let's do this again, because some children are playing with pencils.
-- check textbooks and workbooks
-  > At the beginning of the lesson let's check our books
+- Self-introduction
+- Greeting (2 times)
+  > Let's do this again, because some children are playing with their pencils.
+- Check textbooks and workbooks
+  > At the beginning of the lesson, let’s check our books.
   >
-  > every one, let's check
+  > Everyone, let's check.
   >
-  > first, do you have your textbooks? all right show me. done (tick)
+  > First, do you have your textbooks? All right, show me. Done (tick).
   >
-  > two, your grammar book? ...
+  > Second, your grammar book? ...
   >
-  > so how many books do u have all together?
+  > So, how many books do you have altogether?
   >
-  > before u go home, count
+  > Before you go home, count.
 - Kids' Preparation
-  > do u have these things today?
+  > Do you have these things today?
   >
-  > if no, I want to see them next lesson.
+  > If not, I want to see them next lesson.
   >
-  > u need to take all your books here every day
+  > You need to bring all your books every day.
   >
-  > u need your schoolbag, your handbag or your bookcase
+  > You need your school bag, your handbag, or your bookcase.
   >
-  > and ...
-- classroom rules
+  > And ...
+- Classroom Rules
 
-  > all right so at the beginning we need to talk about our classroom rules
+  > All right, so at the beginning, we need to talk about our classroom rules.
   >
-  > during the class
+  > During the class,
   >
-  > u have to look at your teacher, that's right, **look at Karsten**
+  > You have to look at your teacher, that’s right, **look at Karsten**.
   >
-  > just like right now some children are looking at their books
+  > Just like right now, some children are looking at their books.
   >
-  > ok look at me first
+  > OK, look at me first.
   >
-  > two, your **mouth should read** during the class
+  > Second, your **mouth should read** during the class.
   >
-  > u should read your book
+  > You should read your book.
   >
-  > u should discuss with your partners
+  > You should discuss with your partners.
   >
-  > and your ears
+  > And your ears,
   >
-  > u should listen to Karsten
+  > You should **listen to Karsten**.
   >
-  > every time if u want 2 say something, for example
+  > Every time you want to say something, for example,
   >
-  > u want to answer my questions u should hands up
+  > If you want to answer my questions, you should raise your hand.
   >
-  > ok hands up first raise your hands first
+  > OK, raise your hand first.
   >
-  > what else? oh, I'm not feeling good I want to go pee pee or go poo poo
+  > What else? Oh, if you are not feeling well and need to go to the toilet,
   >
-  > hands up first
+  > Raise your hand first.
 
-- intro
+- Introduction
 
-  > let's talk about some different places in our school
+  > Let’s talk about some different places in our school.
   >
-  > in Sky, what places can u find? 在蓝天你们能看到什么？
+  > In Sky, what places can you find? 在蓝天你们能看到什么？
   >
-  > so yeah u can see many classrooms
+  > So yes, you can see many classrooms.
 
   ![alt text](image-3.png)
 
-  - pick kids to tell the places in their school
-  - introduce the images on the screen: what can we do there? what place is it?
+  - Pick children to name the places in their school.
+  - Introduce the images on the screen: What can we do there? What place is it?
 
   ![alt text](image-4.png)
 
-  - pick kids
+  - Pick children.
 
-  > all right so in this part let's do an activity well, i'll show you a picture and a sentence, okay when you see this, you know the answer but don't say out, don't say your answer out and then if you know, if you know, the answer put on your hands and weight what play is it
+  > All right, so in this part, let’s do an activity. I’ll show you a picture and a sentence. OK, when you see this, you know the answer but don’t say it out loud. If you know the answer, put up your hand and wait. What place is it?
 
-  - stand up answer
+  - Stand up and answer.
 
   ![alt text](image-5.png)
 
-  - phonics
-  - clap according to word's syllable
+  - Phonics
+  - Clap according to the word's syllables.
 
   ![alt text](image-6.png)
 
-  - do u know more compound words?
-  - bedroom, bathroom, basketball...
+  - Do you know more compound words?
+  - Bedroom, bathroom, basketball...
 
   ![alt text](image-7.png)
 
-  - where can u buy or read a magazine?
-  - library, reading room...
+  - Where can you buy or read a magazine?
+  - Library, reading room...
 
   ![alt text](image-8.png)
 
-  - mention the months
+  - Mention the months.
 
   ![alt text](image-9.png)
 
-  - what is the school like in your mind?
-  - beautiful, colourful ...
+  - What is the school like in your mind?
+  - Beautiful, colourful...
 
   ![alt text](image-10.png)
 
-  > okay the topic is _my dream school_ and what is a dream school? let's see just like this picture show us can have anything you want
+  > OK, the topic is _My Dream School_. What is a dream school? Let’s see. Just like this picture shows us, it can have anything you want.
 
   ![alt text](image-11.png)
 
-  - read the names more times
+  - Read the names multiple times.
 
   ![alt text](image-12.png)
 
-  - Please find out the question Flora asked. Can anyone come here and cirle it out?
-  - and who can cirle the answer from Kenny Li?
-  - (only let kids differentiate question and answer. no need to discuss deeper into the content of the answer)
+  - Please find the question Flora asked. Can anyone come here and circle it?
+  - And who can circle the answer from Kenny Li?
+  - (Only let children differentiate the question and answer. No need to delve deeper into the content of the answer.)
 
-- reading
+- Reading
 
-  - first reading:
+  - First Reading:
 
-    - 播放录音，学生默读
+    - Play the recording while students read silently.
 
     ![alt text](image-13.png)
 
-    - tell kids the meaning of `F` and `K`
-    - simple questions
+    - Tell the children the meaning of `F` and `K`.
+    - Simple questions.
 
-- second reading:
-  - 播放录音，学生跟读
-  - advanced questions
-- third reading:
+  - Second Reading:
+    - Play the recording while students read aloud.
+    - Advanced questions.
 
-  - role-play (do this only when have more time)
-  - extended knowledge
+  - Third Reading:
+    - Role-play (do this only if there is extra time).
+    - Extended knowledge.
+    
     ![alt text](image-14.png)
-    > here are some ideas
 
-- phonics
-  - ask kids to give more examples including the learnt phonics part `pl` and `cl`
+    > Here are some ideas.
 
-- homework
+- Phonics
+  - Ask children to give more examples including the learned phonics parts `pl` and `cl`.
 
-## others
+- Homework
 
-- for games rules, less explaination, more examples
-- clap softly, otherwise kids can't listen clearly
-- little teacher - point to the text
-- catch any chances that can say the teachers name so kids can remenber the name
-- 'take out your textbook' (show the book at the same time)
+## Others
+
+- For game rules, provide fewer explanations and more examples.
+- Clap softly, otherwise, children can’t hear clearly.
+- Little teacher - point to the text.
+- Take any opportunity to say the teacher’s name so children can remember it.
+- 'Take out your textbook' (show the book at the same time).
