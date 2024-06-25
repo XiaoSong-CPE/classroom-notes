@@ -38,7 +38,7 @@ export default defineConfig({
   cleanUrls: true,
   // lastUpdated: true,
   rewrites: {
-    "/src/:path*": "/:path*",
+    "src/:path/:file": ":path/:file",
   },
   themeConfig: {
     search: {
