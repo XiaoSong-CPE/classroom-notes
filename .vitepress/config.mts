@@ -37,9 +37,9 @@ export default defineConfig({
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
   // lastUpdated: true,
-  rewrites: {
-    "src/:path/:file": ":path/:file",
-  },
+  // rewrites: {
+  //   "src/:path/:file": ":path/:file",
+  // },
   themeConfig: {
     search: {
       provider: "local",
