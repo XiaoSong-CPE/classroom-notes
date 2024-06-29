@@ -3,6 +3,11 @@ import { defineConfig } from "vitepress";
 import fs from "fs";
 import path from "path";
 
+// if dev env?
+let dev = process.env.NODE_ENV === "development";
+
+console.log(dev);
+
 function listGen(dir: string) {
   return fs
     .readdirSync(path.resolve(__dirname, dir))
@@ -36,7 +41,7 @@ export default defineConfig({
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
-  // lastUpdated: true,
+  lastUpdated: dev ? false : true,
   // rewrites: {
   //   "src/:path/:file": ":path/:file",
   // },
@@ -80,7 +85,7 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/XiaoSong-CPE/classroom-notes" },
     ],
   },
 });
