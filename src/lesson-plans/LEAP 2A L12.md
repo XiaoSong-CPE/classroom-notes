@@ -1,0 +1,8 @@
+- let kids watch the video and tell what transpart can they remenber. ![alt text](image-37.png)
+- let kids say briefly![alt text](image-38.png)
+- 10s for kids to remenber the words and cover some letters ![alt text](image-39.png)
+- let kids share ![alt text](image-40.png)
+- example and kids try ![alt text](image-41.png)
+- listen ![alt text](image-42.png)
+- invite kids to read ![alt text](image-43.png)
+- let kids say 5 words and see who hits the most words in the slides ![alt text](image-44.png)
