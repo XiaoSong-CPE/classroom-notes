@@ -1,12 +1,8 @@
 import { defineConfig } from "vitepress";
+import markdownItTaskLists from "markdown-it-task-lists";
 
 import fs from "fs";
 import path from "path";
-
-// if dev env?
-let dev = process.env.NODE_ENV === "development";
-
-console.log(dev);
 
 function listGen(dir: string) {
   return fs
@@ -41,7 +37,7 @@ export default defineConfig({
   title: "Classroom Notes",
   description: "The lessons I met at Skyedu",
   cleanUrls: true,
-  lastUpdated: dev ? false : true,
+  // lastUpdated: true,
   // rewrites: {
   //   "src/:path/:file": ":path/:file",
   // },
@@ -85,7 +81,17 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/XiaoSong-CPE/classroom-notes" },
+      {
+        icon: "github",
+        link: "https://github.com/XiaoSong-CPE/classroom-notes",
+      },
     ],
+  },
+  vite: {},
+  markdown: {
+    config: (md) => {
+      // 使用更多的 Markdown-it 插件！
+      md.use(markdownItTaskLists, { label: true });
+    },
   },
 });

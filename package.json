@@ -1,11 +1,19 @@
 {
+  "type": "module",
   "devDependencies": {
     "@types/node": "^20.14.2",
+    "less": "^4.2.0",
+    "naive-ui": "^2.38.2",
     "vitepress": "^1.2.3"
   },
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.12",
+    "markdown-it-task-lists": "^2.1.1",
+    "xlsx": "^0.18.5"
   }
 }

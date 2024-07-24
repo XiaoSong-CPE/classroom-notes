@@ -8,6 +8,34 @@ hero:
   tagline: My great project tagline
 ---
 
+- Checklists
+  - Phase 1
+    - [Day 1](./checklists/P1D1)
+    - [Day 2](./checklists/P1D2)
+    - [Day 3](./checklists/P1D3)
+    - [Day 4](./checklists/P1D4)
+    - [Day 5](./checklists/P1D5)
+    - [Day 6](./checklists/P1D6)
+    - [Day 7](./checklists/P1D7)
+    - [Day 8](./checklists/P1D8)
+    - [Day 9](./checklists/P1D9)
+    - [Day 10](./checklists/P1D10)
+    - [Day 11](./checklists/P1D11)
+    - [Day 12](./checklists/P1D12)
+  - Phase 2
+    - [Day 1](./checklists/P2D1)
+    - [Day 2](./checklists/P2D2)
+    - [Day 3](./checklists/P2D3)
+    - [Day 4](./checklists/P2D4)
+    - [Day 5](./checklists/P2D5)
+    - [Day 6](./checklists/P2D6)
+    - [Day 7](./checklists/P2D7)
+    - [Day 8](./checklists/P2D8)
+    - [Day 9](./checklists/P2D9)
+    - [Day 10](./checklists/P2D10)
+    - [Day 11](./checklists/P2D11)
+    - [Day 12](./checklists/P2D12)
+
 <video controls src="./first-show.mp4" title="first-show"></video>
 
 1. 非常用心，周六晚去多多班多听了 2 节 3 精学课，想要做好万全准备；
