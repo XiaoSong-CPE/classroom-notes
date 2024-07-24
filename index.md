@@ -8,6 +8,9 @@ hero:
   tagline: My great project tagline
 ---
 
+- [kindergarten](./kindergarten)
+- [checklist](./checklists/1)
+
 <video controls src="./first-show.mp4" title="first-show"></video>
 
 1. 非常用心，周六晚去多多班多听了 2 节 3 精学课，想要做好万全准备；
